@@ -18,7 +18,7 @@ and rename downloaded files as follows:
 
 Then put all this files in /generate_dataframe/data
 
-## Full tutorial is given in Tutorial.ipynb (for convenience)
+## Full tutorial is given in [Tutorial.ipynb](https://github.com/dimafurs1337/OneShotLearning/blob/master/Tutorial.ipynb)
 
 ## To install jupyter notebook follow steps (write in command line):
 - python -m pip install jupyter
