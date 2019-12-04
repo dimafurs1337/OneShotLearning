@@ -8,7 +8,7 @@ In order to run all the files successfully you need to install the following lib
 - sklearn
 - mnist
 
-## !IMPORTANT!
+## ! IMPORTANT !
 First of all you need to download the mnist dataset [http://yann.lecun.com/exdb/mnist/]
 and rename downloaded files as follows:
 - t10k-images-idx3-ubyte
@@ -16,4 +16,10 @@ and rename downloaded files as follows:
 - train-images-idx3-ubyte
 - train-labels-idx1-ubyte
 
-Then put all this files /generate_dataframe/data
+Then put all this files in /generate_dataframe/data
+
+## Full tutorial is given in Tutorial.ipynb (for convenience)
+
+## To install jupyter notebook follow steps (write in command line):
+- python -m pip install jupyter
+- jupyter notebook
