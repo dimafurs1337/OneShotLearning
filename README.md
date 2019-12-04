@@ -15,4 +15,5 @@ and rename downloaded files as follows:
 - t10k-labels-idx1-ubyte
 - train-images-idx3-ubyte
 - train-labels-idx1-ubyte
+
 Then put all this files /generate_dataframe/data
